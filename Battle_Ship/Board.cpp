@@ -587,3 +587,4 @@ void Board::load_ships()
 
 
 
+// dzialaa zmiaan !!!!
